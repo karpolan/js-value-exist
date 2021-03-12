@@ -11,7 +11,6 @@ There are different ways in **JavaScript** how to **verify existence** of given 
 // valueExistByObjectHasOwnProperty
 { first: 1, second: 1, third: 1}.hasOwnProperty(value)
 
-
 // valueExistByArrayIndexOf
 ['first', 'second', 'third'].indexOf(value) > -1
 
