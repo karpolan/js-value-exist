@@ -1,0 +1,26 @@
+{
+  "name": "js-value-exist",
+  "version": "1.0.0",
+  "description": "Tests to find the best way in JavaScript to verify existence of value in some list",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karpolan/js-value-exist.git"
+  },
+  "keywords": [
+    "javascript",
+    "speed",
+    "test",
+    "js"
+  ],
+  "author": "Anton Karpenko <i@karpolan> (https://karpolan.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karpolan/js-value-exist/issues"
+  },
+  "homepage": "https://github.com/karpolan/js-value-exist#readme"
+}
